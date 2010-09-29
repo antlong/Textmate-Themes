@@ -3,22 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Railscasts</string>
+	<string>eclips3.media (ECLM)</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#323232</string>
+				<string>#2B2B2B</string>
 				<key>caret</key>
 				<string>#FFFFFF</string>
 				<key>foreground</key>
-				<string>#E6E1DC</string>
+				<string>#E6E1DE</string>
 				<key>invisibles</key>
-				<string>#404040</string>
+				<string>#333333</string>
 				<key>lineHighlight</key>
-				<string>#333435</string>
+				<string>#393A3C</string>
 				<key>selection</key>
 				<string>#5A647EE0</string>
 			</dict>
@@ -31,7 +31,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#282828</string>
+				<string>#1D1D1D</string>
+				<key>fontStyle</key>
+				<string></string>
 			</dict>
 		</dict>
 		<dict>
@@ -41,10 +43,12 @@
 			<string>comment</string>
 			<key>settings</key>
 			<dict>
+				<key>background</key>
+				<string>#2828284F</string>
 				<key>fontStyle</key>
-				<string>italic</string>
+				<string></string>
 				<key>foreground</key>
-				<string>#BC9458</string>
+				<string>#000000BF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -54,10 +58,12 @@
 			<string>keyword, storage</string>
 			<key>settings</key>
 			<dict>
+				<key>background</key>
+				<string>#80808000</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#CC7833</string>
+				<string>#69A1FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -67,10 +73,12 @@
 			<string>entity.name.function, keyword.other.name-of-parameter.objc</string>
 			<key>settings</key>
 			<dict>
+				<key>background</key>
+				<string>#000000</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFC66D</string>
+				<string>#FF65FC</string>
 			</dict>
 		</dict>
 		<dict>
@@ -80,6 +88,8 @@
 			<string>entity.name</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string></string>
 				<key>foreground</key>
 				<string>#FFFFFF</string>
 			</dict>
@@ -94,7 +104,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A5C261</string>
+				<string>#96D339</string>
 			</dict>
 		</dict>
 		<dict>
@@ -107,18 +117,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#D0D0FF</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Block Parameter</string>
-			<key>scope</key>
-			<string>variable.other.block</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#E6E1DC</string>
+				<string>#C9CEFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -141,6 +140,8 @@
 			<string>variable.other.constant</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string></string>
 				<key>foreground</key>
 				<string>#DA4939</string>
 			</dict>
@@ -168,7 +169,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A5C261</string>
+				<string>#0069CC</string>
 			</dict>
 		</dict>
 		<dict>
@@ -178,10 +179,12 @@
 			<string>support.function</string>
 			<key>settings</key>
 			<dict>
+				<key>background</key>
+				<string>#2B2B2B</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#DA4939</string>
+				<string>#00C5FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -191,6 +194,8 @@
 			<string>support.type</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string></string>
 				<key>foreground</key>
 				<string>#6E9CBE</string>
 			</dict>
@@ -216,7 +221,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#E8BF6A</string>
+				<string>#000000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -228,6 +233,8 @@
 			<dict>
 				<key>background</key>
 				<string>#990000</string>
+				<key>fontStyle</key>
+				<string>italic</string>
 				<key>foreground</key>
 				<string>#FFFFFF</string>
 			</dict>
@@ -282,87 +289,8 @@
 				<string>#2F33AB</string>
 			</dict>
 		</dict>
-		<dict>
-			<key>name</key>
-			<string>TODO Category Name</string>
-			<key>scope</key>
-			<string>todo.category.name</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#E8BF6A</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>TODO Urgent</string>
-			<key>scope</key>
-			<string>todo.task.urgent</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#FEFF00</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>TODO Category Extras</string>
-			<key>scope</key>
-			<string>todo.category.extras</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#BC9458</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>TODO Task Dormant</string>
-			<key>scope</key>
-			<string>todo.task.dormant</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#807C79</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>TODO Task Complete</string>
-			<key>scope</key>
-			<string>todo.task.complete</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#DA4939</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>TODO Task Question</string>
-			<key>scope</key>
-			<string>todo.task.question</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#82A7E2</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>TODO Task Large</string>
-			<key>scope</key>
-			<string>todo.task.large</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#A5C261</string>
-			</dict>
-		</dict>
 	</array>
 	<key>uuid</key>
-	<string>FC05BACA-10E3-4636-82C5-758C2334DA9D</string>
+	<string>011B4465-8D12-43E9-8D69-5D5FC538344B</string>
 </dict>
 </plist>
