@@ -27,13 +27,13 @@
 			<key>name</key>
 			<string>Source</string>
 			<key>scope</key>
-			<string>source</string>
+			<string>source.python</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#1D1D1D</string>
 				<key>fontStyle</key>
 				<string></string>
+				<key>foreground</key>
+				<string>#E6D18C</string>
 			</dict>
 		</dict>
 		<dict>
@@ -44,11 +44,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#2828284F</string>
+				<string>#000000</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#000000BF</string>
+				<string>#FFFFFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -58,12 +58,10 @@
 			<string>keyword, storage</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#80808000</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#69A1FF</string>
+				<string>#5790FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -117,7 +115,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#C9CEFF</string>
+				<string>#CEC8FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -169,7 +167,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#0069CC</string>
+				<string>#B8D9FF</string>
 			</dict>
 		</dict>
 		<dict>
