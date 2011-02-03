@@ -12,7 +12,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#FFFFFF</string>
+				<string>#E9E9E9E6</string>
 				<key>caret</key>
 				<string>#000000</string>
 				<key>foreground</key>
@@ -20,9 +20,9 @@
 				<key>invisibles</key>
 				<string>#BFBFBF</string>
 				<key>lineHighlight</key>
-				<string>#60D557A8</string>
+				<string>#00000012</string>
 				<key>selection</key>
-				<string>#97190091</string>
+				<string>#87B8FF54</string>
 			</dict>
 		</dict>
 		<dict>
@@ -36,6 +36,32 @@
 				<string>italic</string>
 				<key>foreground</key>
 				<string>#0066FF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS Class</string>
+			<key>scope</key>
+			<string>entity.other.attribute-name.class.css</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold italic</string>
+				<key>foreground</key>
+				<string>#646464</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS Id</string>
+			<key>scope</key>
+			<string>entity.other.attribute-name.id.css</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold italic</string>
+				<key>foreground</key>
+				<string>#1E1E1E</string>
 			</dict>
 		</dict>
 		<dict>

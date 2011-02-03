@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>author</key>
-	<string>Domenico Carbotta</string>
 	<key>name</key>
 	<string>Blackboard</string>
 	<key>settings</key>
@@ -12,7 +10,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#101010</string>
+				<string>#2E3C7E</string>
 				<key>caret</key>
 				<string>#FFFFFFA6</string>
 				<key>foreground</key>
@@ -61,7 +59,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#F0CD7C</string>
+				<string>#FF6400</string>
 			</dict>
 		</dict>
 		<dict>
@@ -74,7 +72,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#E2692D</string>
+				<string>#FBDE2D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -87,7 +85,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#CB6C3E</string>
+				<string>#FBDE2D</string>
 			</dict>
 		</dict>
 		<dict>
