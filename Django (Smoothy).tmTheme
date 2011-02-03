@@ -5,14 +5,14 @@
 	<key>comment</key>
 	<string>Created by Jannis Leidel, based on djangoproject.com</string>
 	<key>name</key>
-	<string>Django</string>
+	<string>Django (Smoothy)</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#0C0C0C</string>
+				<string>#245032</string>
 				<key>caret</key>
 				<string>#336442</string>
 				<key>foreground</key>
