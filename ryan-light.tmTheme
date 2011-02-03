@@ -1,37 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Railscasts</string>
+	<string>Ryan Light</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#2B2B2B</string>
-				<key>caret</key>
 				<string>#FFFFFF</string>
+				<key>caret</key>
+				<string>#000000</string>
 				<key>foreground</key>
-				<string>#E6E1DC</string>
+				<string>#000000</string>
 				<key>invisibles</key>
-				<string>#404040</string>
+				<string>#BFBFBF</string>
 				<key>lineHighlight</key>
-				<string>#333435</string>
+				<string>#EFEFEF</string>
 				<key>selection</key>
-				<string>#5A647EE0</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Source</string>
-			<key>scope</key>
-			<string>source</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#232323</string>
+				<string>#C3DCFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -44,7 +33,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#BC9458</string>
+				<string>#808080</string>
 			</dict>
 		</dict>
 		<dict>
@@ -57,7 +46,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#CC7833</string>
+				<string>#006A08</string>
 			</dict>
 		</dict>
 		<dict>
@@ -70,7 +59,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFC66D</string>
+				<string>#820095</string>
 			</dict>
 		</dict>
 		<dict>
@@ -81,7 +70,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFFFFF</string>
+				<string>#0802D3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -94,7 +83,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A5C261</string>
+				<string>#0900D3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -107,31 +96,20 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#D0D0FF</string>
+				<string>#7E3700</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>Constant</string>
 			<key>scope</key>
-			<string>constant</string>
+			<string>constant, variable.other.constant</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#6D9CBE</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Constant (other variable)</string>
-			<key>scope</key>
-			<string>variable.other.constant</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#DA4939</string>
+				<string>#A62B29</string>
 			</dict>
 		</dict>
 		<dict>
@@ -144,7 +122,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#6E9CBE</string>
+				<string>#0000CD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -157,7 +135,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A5C261</string>
+				<string>#0E8D90</string>
 			</dict>
 		</dict>
 		<dict>
@@ -170,7 +148,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#DA4939</string>
+				<string>#010E83</string>
 			</dict>
 		</dict>
 		<dict>
@@ -180,10 +158,8 @@
 			<string>support.type</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
-				<string>#6E9CBE</string>
+				<string>#006A09</string>
 			</dict>
 		</dict>
 		<dict>
@@ -194,7 +170,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A5C261</string>
+				<string>#006A09</string>
 			</dict>
 		</dict>
 		<dict>
@@ -207,7 +183,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#E8BF6A</string>
+				<string>#2D439B</string>
 			</dict>
 		</dict>
 		<dict>
@@ -225,6 +201,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Embedded Ruby Source</string>
+			<key>scope</key>
+			<string>text source.ruby</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#FFFADE</string>
+				<key>foreground</key>
+				<string>#000000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>String interpolation</string>
 			<key>scope</key>
 			<string>constant.character.escaped, constant.character.escape, string source, string source.ruby</string>
@@ -233,48 +222,11 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#519F50</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Diff Add</string>
-			<key>scope</key>
-			<string>markup.inserted</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#144212</string>
-				<key>foreground</key>
-				<string>#E6E1DC</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Diff Remove</string>
-			<key>scope</key>
-			<string>markup.deleted</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#660000</string>
-				<key>foreground</key>
-				<string>#E6E1DC</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Diff Header</string>
-			<key>scope</key>
-			<string>meta.diff.header, meta.separator.diff, meta.diff.index, meta.diff.range</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#2F33AB</string>
+				<string>#26B31A</string>
 			</dict>
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>B80CD0D8-613C-46FD-9C06-A1201108BC2A</string>
+	<string>9D1A882B-9463-4DB0-B693-2C7DFD55AFE7</string>
 </dict>
 </plist>
