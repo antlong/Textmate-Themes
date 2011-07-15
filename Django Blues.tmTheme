@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>ForLaTeX</string>
+	<string>Django Blues</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#000000C7</string>
+				<string>#FFFFFF</string>
 				<key>caret</key>
-				<string>#FF8000</string>
+				<string>#000000</string>
 				<key>foreground</key>
-				<string>#66CCFF</string>
+				<string>#000000</string>
 				<key>invisibles</key>
 				<string>#BFBFBF</string>
 				<key>lineHighlight</key>
-				<string>#7F7F7F</string>
+				<string>#00000012</string>
 				<key>selection</key>
-				<string>#BAD6FD</string>
+				<string>#B5D5FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -29,12 +29,7 @@
 			<key>scope</key>
 			<string>comment</string>
 			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
-				<key>foreground</key>
-				<string>#66FF66</string>
-			</dict>
+			<dict/>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -42,10 +37,7 @@
 			<key>scope</key>
 			<string>string</string>
 			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#FF66FF</string>
-			</dict>
+			<dict/>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -61,10 +53,7 @@
 			<key>scope</key>
 			<string>constant.language</string>
 			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-			</dict>
+			<dict/>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -72,10 +61,7 @@
 			<key>scope</key>
 			<string>constant.character, constant.other</string>
 			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#FFFF00</string>
-			</dict>
+			<dict/>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -91,10 +77,7 @@
 			<key>scope</key>
 			<string>keyword</string>
 			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#999999</string>
-			</dict>
+			<dict/>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -134,10 +117,7 @@
 			<key>scope</key>
 			<string>variable.parameter</string>
 			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#FF0080</string>
-			</dict>
+			<dict/>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -161,10 +141,7 @@
 			<key>scope</key>
 			<string>support.function</string>
 			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#FFCC66</string>
-			</dict>
+			<dict/>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -172,10 +149,7 @@
 			<key>scope</key>
 			<string>support.constant</string>
 			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#FF0000</string>
-			</dict>
+			<dict/>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -183,10 +157,7 @@
 			<key>scope</key>
 			<string>support.type, support.class</string>
 			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#FFFFFF</string>
-			</dict>
+			<dict/>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -194,10 +165,7 @@
 			<key>scope</key>
 			<string>support.other.variable</string>
 			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#000000</string>
-			</dict>
+			<dict/>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -209,6 +177,6 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>57873D41-1D6F-4565-8E5B-EA82307AB996</string>
+	<string>1675F02F-36A5-4536-B94A-B6EEAD6F03C7</string>
 </dict>
 </plist>

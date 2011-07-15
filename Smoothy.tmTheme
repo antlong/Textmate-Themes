@@ -2,10 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>comment</key>
-	<string>@kennethreitz - http://kennethreitz.com</string>
 	<key>kenneth</key>
 	<string>Kenneth Reitz</string>
+	<key>comment</key>
+	<string>@kennethreitz - http://kennethreitz.com</string>
 	<key>name</key>
 	<string>Smoothy</string>
 	<key>settings</key>
