@@ -2,8 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>comment</key>
+	<string>Anthony Long - www.antlong.com</string>
 	<key>name</key>
-	<string>Inspiration (733979)</string>
+	<string>Drankin Purp</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -23,21 +25,6 @@
 				<string>#323232</string>
 			</dict>
 		</dict>
-		
-		<dict>
-			<key>name</key>
-			<string>inspiration.sweyla.com</string>
-			<key>scope</key>
-			<string>meta.sweyla</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#E6F8B0</string>
-			</dict>
-		</dict>
-		
 		<dict>
 			<key>name</key>
 			<string>Comment</string>
@@ -51,7 +38,6 @@
 				<string>#73A9FF</string>
 			</dict>
 		</dict>
-		
 		<dict>
 			<key>name</key>
 			<string>Constant</string>
@@ -65,7 +51,6 @@
 				<string>#C07AFF</string>
 			</dict>
 		</dict>
-		
 		<dict>
 			<key>name</key>
 			<string>Constant</string>
@@ -79,7 +64,6 @@
 				<string>#E2F3FF</string>
 			</dict>
 		</dict>
-		
 		<dict>
 			<key>name</key>
 			<string>Entity</string>
@@ -93,7 +77,6 @@
 				<string>#F2FCC7</string>
 			</dict>
 		</dict>
-		
 		<dict>
 			<key>name</key>
 			<string>Entity Function</string>
@@ -107,7 +90,6 @@
 				<string>#F2FCC7</string>
 			</dict>
 		</dict>
-		
 		<dict>
 			<key>name</key>
 			<string>Entity Name</string>
@@ -121,7 +103,6 @@
 				<string>#BFFFCE</string>
 			</dict>
 		</dict>
-		
 		<dict>
 			<key>name</key>
 			<string>Keyword</string>
@@ -135,7 +116,6 @@
 				<string>#E6F8B0</string>
 			</dict>
 		</dict>
-		
 		<dict>
 			<key>name</key>
 			<string>Operator</string>
@@ -149,7 +129,6 @@
 				<string>#C3C5FF</string>
 			</dict>
 		</dict>
-		
 		<dict>
 			<key>name</key>
 			<string>Storage</string>
@@ -163,7 +142,6 @@
 				<string>#E6F8B0</string>
 			</dict>
 		</dict>
-		
 		<dict>
 			<key>name</key>
 			<string>Support</string>
@@ -177,7 +155,6 @@
 				<string>#D5BDFF</string>
 			</dict>
 		</dict>
-		
 		<dict>
 			<key>name</key>
 			<string>Support Function</string>
@@ -191,7 +168,6 @@
 				<string>#D1CB99</string>
 			</dict>
 		</dict>
-		
 		<dict>
 			<key>name</key>
 			<string>String</string>
@@ -205,7 +181,6 @@
 				<string>#DBEDFF</string>
 			</dict>
 		</dict>
-		
 		<dict>
 			<key>name</key>
 			<string>Variable</string>
@@ -219,7 +194,6 @@
 				<string>#E2F3FF</string>
 			</dict>
 		</dict>
-		
 		<dict>
 			<key>name</key>
 			<string>String constant</string>
@@ -233,7 +207,6 @@
 				<string>#FFDAB6</string>
 			</dict>
 		</dict>
-		
 		<dict>
 			<key>name</key>
 			<string>Invalid</string>
@@ -247,7 +220,6 @@
 				<string>#E6F8B0</string>
 			</dict>
 		</dict>
-		
 	</array>
 	<key>uuid</key>
 	<string>0f3f154b-65c9-38a4-815d-f5821f66071b</string>

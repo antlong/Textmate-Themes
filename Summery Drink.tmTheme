@@ -2,8 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+    <key>comment</key>
+    <string>Anthony Long - www.antlong.com</string>
 	<key>name</key>
-	<string>Inspiration (918146)</string>
+	<string>Summery Drink</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -22,22 +24,7 @@
 				<key>selection</key>
 				<string>#323232</string>
 			</dict>
-		</dict>
-		
-		<dict>
-			<key>name</key>
-			<string>inspiration.sweyla.com</string>
-			<key>scope</key>
-			<string>meta.sweyla</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#FFB27C</string>
-			</dict>
-		</dict>
-		
+		</dict>		
 		<dict>
 			<key>name</key>
 			<string>Comment</string>
