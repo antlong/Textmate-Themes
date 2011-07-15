@@ -127,7 +127,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Invalid – Deprecated</string>
+			<string>Invalid â€“ Deprecated</string>
 			<key>scope</key>
 			<string>invalid.deprecated</string>
 			<key>settings</key>
@@ -140,7 +140,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Invalid – Illegal</string>
+			<string>Invalid â€“ Illegal</string>
 			<key>scope</key>
 			<string>invalid.illegal</string>
 			<key>settings</key>
@@ -159,7 +159,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>♦ Embedded Source</string>
+			<string>â™¦ Embedded Source</string>
 			<key>scope</key>
 			<string>text source</string>
 			<key>settings</key>
@@ -170,7 +170,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>♦ Embedded Source (Bright)</string>
+			<string>â™¦ Embedded Source (Bright)</string>
 			<key>scope</key>
 			<string>text.html.ruby source</string>
 			<key>settings</key>
@@ -181,7 +181,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>♦ Entity inherited-class</string>
+			<string>â™¦ Entity inherited-class</string>
 			<key>scope</key>
 			<string>entity.other.inherited-class</string>
 			<key>settings</key>
@@ -194,7 +194,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>♦ String embedded-source</string>
+			<string>â™¦ String embedded-source</string>
 			<key>scope</key>
 			<string>string source</string>
 			<key>settings</key>
@@ -207,7 +207,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>♦ String constant</string>
+			<string>â™¦ String constant</string>
 			<key>scope</key>
 			<string>string constant</string>
 			<key>settings</key>
@@ -218,7 +218,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>♦ String.regexp</string>
+			<string>â™¦ String.regexp</string>
 			<key>scope</key>
 			<string>string.regexp</string>
 			<key>settings</key>
@@ -231,7 +231,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>♦ String.regexp.«special»</string>
+			<string>â™¦ String.regexp.Â«specialÂ»</string>
 			<key>scope</key>
 			<string>string.regexp constant.character.escape, string.regexp source.ruby.embedded, string.regexp string.regexp.arbitrary-repitition</string>
 			<key>settings</key>
@@ -242,7 +242,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>♦ String variable</string>
+			<string>â™¦ String variable</string>
 			<key>scope</key>
 			<string>string variable</string>
 			<key>settings</key>
@@ -253,7 +253,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>♦ Support.function</string>
+			<string>â™¦ Support.function</string>
 			<key>scope</key>
 			<string>support.function</string>
 			<key>settings</key>
@@ -266,7 +266,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>♦ Support.constant</string>
+			<string>â™¦ Support.constant</string>
 			<key>scope</key>
 			<string>support.constant</string>
 			<key>settings</key>
@@ -301,7 +301,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>✘ Doctype/XML Processing</string>
+			<string>âœ˜ Doctype/XML Processing</string>
 			<key>scope</key>
 			<string>meta.tag.sgml.doctype, meta.tag.sgml.doctype entity, meta.tag.sgml.doctype string, meta.tag.preprocessor.xml, meta.tag.preprocessor.xml entity, meta.tag.preprocessor.xml string</string>
 			<key>settings</key>
@@ -312,7 +312,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>✘ Meta.tag.«all»</string>
+			<string>âœ˜ Meta.tag.Â«allÂ»</string>
 			<key>scope</key>
 			<string>declaration.tag, declaration.tag entity, meta.tag, meta.tag entity</string>
 			<key>settings</key>
@@ -323,7 +323,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>§ css tag-name</string>
+			<string>Â§ css tag-name</string>
 			<key>scope</key>
 			<string>meta.selector.css entity.name.tag</string>
 			<key>settings</key>
@@ -336,7 +336,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>§ css:pseudo-class</string>
+			<string>Â§ css:pseudo-class</string>
 			<key>scope</key>
 			<string>meta.selector.css entity.other.attribute-name.tag.pseudo-class</string>
 			<key>settings</key>
@@ -347,7 +347,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>§ css#id</string>
+			<string>Â§ css#id</string>
 			<key>scope</key>
 			<string>meta.selector.css entity.other.attribute-name.id</string>
 			<key>settings</key>
@@ -358,7 +358,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>§ css.class</string>
+			<string>Â§ css.class</string>
 			<key>scope</key>
 			<string>meta.selector.css entity.other.attribute-name.class</string>
 			<key>settings</key>
@@ -369,7 +369,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>§ css property-name:</string>
+			<string>Â§ css property-name:</string>
 			<key>scope</key>
 			<string>support.type.property-name.css</string>
 			<key>settings</key>
@@ -380,7 +380,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>§ css property-value;</string>
+			<string>Â§ css property-value;</string>
 			<key>scope</key>
 			<string>meta.property-group support.constant.property-value.css, meta.property-value support.constant.property-value.css</string>
 			<key>settings</key>
@@ -391,7 +391,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>§ css @at-rule</string>
+			<string>Â§ css @at-rule</string>
 			<key>scope</key>
 			<string>meta.preprocessor.at-rule keyword.control.at-rule</string>
 			<key>settings</key>
@@ -402,7 +402,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>§ css additional-constants</string>
+			<string>Â§ css additional-constants</string>
 			<key>scope</key>
 			<string>meta.property-value support.constant.named-color.css, meta.property-value constant</string>
 			<key>settings</key>
@@ -413,7 +413,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>§ css constructor.argument</string>
+			<string>Â§ css constructor.argument</string>
 			<key>scope</key>
 			<string>meta.constructor.argument.css</string>
 			<key>settings</key>
@@ -424,7 +424,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>⎇ diff.header</string>
+			<string>âŽ‡ diff.header</string>
 			<key>scope</key>
 			<string>meta.diff, meta.diff.header, meta.separator</string>
 			<key>settings</key>
@@ -439,7 +439,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>⎇ diff.deleted</string>
+			<string>âŽ‡ diff.deleted</string>
 			<key>scope</key>
 			<string>markup.deleted</string>
 			<key>settings</key>
@@ -452,7 +452,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>⎇ diff.changed</string>
+			<string>âŽ‡ diff.changed</string>
 			<key>scope</key>
 			<string>markup.changed</string>
 			<key>settings</key>
@@ -465,7 +465,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>⎇ diff.inserted</string>
+			<string>âŽ‡ diff.inserted</string>
 			<key>scope</key>
 			<string>markup.inserted</string>
 			<key>settings</key>
