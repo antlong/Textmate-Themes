@@ -2,10 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>author</key>
-	<string>Anthony Long - www.antlong.com</string>
+    <key>author</key>
+    <string>Anthony Long - antlong@gmail.com</string>
 	<key>name</key>
-	<string>Drankin Purp</string>
+	<string>Doo-Daa</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -35,9 +35,10 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#73A9FF</string>
+				<string>#7C4BAE</string>
 			</dict>
 		</dict>
+		
 		<dict>
 			<key>name</key>
 			<string>Constant</string>
@@ -48,9 +49,10 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#C07AFF</string>
+				<string>#61FFD0</string>
 			</dict>
 		</dict>
+		
 		<dict>
 			<key>name</key>
 			<string>Constant</string>
@@ -61,9 +63,10 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#E2F3FF</string>
+				<string>#758AF2</string>
 			</dict>
 		</dict>
+		
 		<dict>
 			<key>name</key>
 			<string>Entity</string>
@@ -74,9 +77,10 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#F2FCC7</string>
+				<string>#46A2A8</string>
 			</dict>
 		</dict>
+		
 		<dict>
 			<key>name</key>
 			<string>Entity Function</string>
@@ -87,9 +91,10 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#F2FCC7</string>
+				<string>#46A2A8</string>
 			</dict>
 		</dict>
+		
 		<dict>
 			<key>name</key>
 			<string>Entity Name</string>
@@ -100,9 +105,10 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#BFFFCE</string>
+				<string>#4273DD</string>
 			</dict>
 		</dict>
+		
 		<dict>
 			<key>name</key>
 			<string>Keyword</string>
@@ -113,9 +119,10 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#E6F8B0</string>
+				<string>#D99AB1</string>
 			</dict>
 		</dict>
+		
 		<dict>
 			<key>name</key>
 			<string>Operator</string>
@@ -126,9 +133,10 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#C3C5FF</string>
+				<string>#AEFF85</string>
 			</dict>
 		</dict>
+		
 		<dict>
 			<key>name</key>
 			<string>Storage</string>
@@ -139,9 +147,10 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#E6F8B0</string>
+				<string>#D99AB1</string>
 			</dict>
 		</dict>
+		
 		<dict>
 			<key>name</key>
 			<string>Support</string>
@@ -152,9 +161,10 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#D5BDFF</string>
+				<string>#00E99B</string>
 			</dict>
 		</dict>
+		
 		<dict>
 			<key>name</key>
 			<string>Support Function</string>
@@ -165,9 +175,10 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#D1CB99</string>
+				<string>#387286</string>
 			</dict>
 		</dict>
+		
 		<dict>
 			<key>name</key>
 			<string>String</string>
@@ -178,9 +189,10 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#DBEDFF</string>
+				<string>#6F83E5</string>
 			</dict>
 		</dict>
+		
 		<dict>
 			<key>name</key>
 			<string>Variable</string>
@@ -191,9 +203,10 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#E2F3FF</string>
+				<string>#758AF2</string>
 			</dict>
 		</dict>
+		
 		<dict>
 			<key>name</key>
 			<string>String constant</string>
@@ -204,9 +217,10 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFDAB6</string>
+				<string>#2FDE80</string>
 			</dict>
 		</dict>
+		
 		<dict>
 			<key>name</key>
 			<string>Invalid</string>
@@ -217,11 +231,12 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#E6F8B0</string>
+				<string>#D99AB1</string>
 			</dict>
 		</dict>
+		
 	</array>
 	<key>uuid</key>
-	<string>0f3f154b-65c9-38a4-815d-f5821f66071b</string>
+	<string>f69e4500-14cc-31e0-a422-e352c154078c</string>
 </dict>
 </plist>

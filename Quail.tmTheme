@@ -2,17 +2,17 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>author</key>
-	<string>Anthony Long - www.antlong.com</string>
+    <key>comment</key>
+    <string>Anthony Long - antlong@gmail.com</string>
 	<key>name</key>
-	<string>Drankin Purp</string>
+	<string>Quail</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#000000</string>
+				<string>#000F13</string>
 				<key>caret</key>
 				<string>#FFFFFF</string>
 				<key>foreground</key>
@@ -25,6 +25,21 @@
 				<string>#323232</string>
 			</dict>
 		</dict>
+		
+		<dict>
+			<key>name</key>
+			<string>inspiration.sweyla.com</string>
+			<key>scope</key>
+			<string>meta.sweyla</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#FFE037</string>
+			</dict>
+		</dict>
+		
 		<dict>
 			<key>name</key>
 			<string>Comment</string>
@@ -35,9 +50,10 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#73A9FF</string>
+				<string>#78F099</string>
 			</dict>
 		</dict>
+		
 		<dict>
 			<key>name</key>
 			<string>Constant</string>
@@ -48,9 +64,10 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#C07AFF</string>
+				<string>#FFFF95</string>
 			</dict>
 		</dict>
+		
 		<dict>
 			<key>name</key>
 			<string>Constant</string>
@@ -61,9 +78,10 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#E2F3FF</string>
+				<string>#F1FFC9</string>
 			</dict>
 		</dict>
+		
 		<dict>
 			<key>name</key>
 			<string>Entity</string>
@@ -74,9 +92,10 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#F2FCC7</string>
+				<string>#7184FF</string>
 			</dict>
 		</dict>
+		
 		<dict>
 			<key>name</key>
 			<string>Entity Function</string>
@@ -87,9 +106,10 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#F2FCC7</string>
+				<string>#7184FF</string>
 			</dict>
 		</dict>
+		
 		<dict>
 			<key>name</key>
 			<string>Entity Name</string>
@@ -100,9 +120,10 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#BFFFCE</string>
+				<string>#6EBFFF</string>
 			</dict>
 		</dict>
+		
 		<dict>
 			<key>name</key>
 			<string>Keyword</string>
@@ -113,9 +134,10 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#E6F8B0</string>
+				<string>#FFE037</string>
 			</dict>
 		</dict>
+		
 		<dict>
 			<key>name</key>
 			<string>Operator</string>
@@ -126,9 +148,10 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#C3C5FF</string>
+				<string>#A1FFFF</string>
 			</dict>
 		</dict>
+		
 		<dict>
 			<key>name</key>
 			<string>Storage</string>
@@ -139,9 +162,10 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#E6F8B0</string>
+				<string>#FFE037</string>
 			</dict>
 		</dict>
+		
 		<dict>
 			<key>name</key>
 			<string>Support</string>
@@ -152,9 +176,10 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#D5BDFF</string>
+				<string>#0063D5</string>
 			</dict>
 		</dict>
+		
 		<dict>
 			<key>name</key>
 			<string>Support Function</string>
@@ -165,9 +190,10 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#D1CB99</string>
+				<string>#5E71DB</string>
 			</dict>
 		</dict>
+		
 		<dict>
 			<key>name</key>
 			<string>String</string>
@@ -178,9 +204,10 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#DBEDFF</string>
+				<string>#C5E9FF</string>
 			</dict>
 		</dict>
+		
 		<dict>
 			<key>name</key>
 			<string>Variable</string>
@@ -191,9 +218,10 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#E2F3FF</string>
+				<string>#F1FFC9</string>
 			</dict>
 		</dict>
+		
 		<dict>
 			<key>name</key>
 			<string>String constant</string>
@@ -204,9 +232,10 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFDAB6</string>
+				<string>#C1B8B3</string>
 			</dict>
 		</dict>
+		
 		<dict>
 			<key>name</key>
 			<string>Invalid</string>
@@ -217,11 +246,12 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#E6F8B0</string>
+				<string>#FFE037</string>
 			</dict>
 		</dict>
+		
 	</array>
 	<key>uuid</key>
-	<string>0f3f154b-65c9-38a4-815d-f5821f66071b</string>
+	<string>be8a99eb-9a26-3571-812c-a6d63fe23586</string>
 </dict>
 </plist>
