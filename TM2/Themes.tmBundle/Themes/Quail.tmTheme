@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
     <key>comment</key>
-    <string>Anthony Long - www.antlong.com</string>
+    <string>Anthony Long - antlong@gmail.com</string>
 	<key>name</key>
-	<string>Bluesy</string>
+	<string>Quail</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#0A1300</string>
+				<string>#000F13</string>
 				<key>caret</key>
 				<string>#FFFFFF</string>
 				<key>foreground</key>
@@ -25,6 +25,21 @@
 				<string>#323232</string>
 			</dict>
 		</dict>
+		
+		<dict>
+			<key>name</key>
+			<string>inspiration.sweyla.com</string>
+			<key>scope</key>
+			<string>meta.sweyla</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#FFE037</string>
+			</dict>
+		</dict>
+		
 		<dict>
 			<key>name</key>
 			<string>Comment</string>
@@ -35,7 +50,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#419BFF</string>
+				<string>#78F099</string>
 			</dict>
 		</dict>
 		
@@ -49,7 +64,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#6337AB</string>
+				<string>#FFFF95</string>
 			</dict>
 		</dict>
 		
@@ -63,7 +78,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#B300FF</string>
+				<string>#F1FFC9</string>
 			</dict>
 		</dict>
 		
@@ -77,7 +92,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#DE68FF</string>
+				<string>#7184FF</string>
 			</dict>
 		</dict>
 		
@@ -91,7 +106,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#DE68FF</string>
+				<string>#7184FF</string>
 			</dict>
 		</dict>
 		
@@ -105,7 +120,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#788FFF</string>
+				<string>#6EBFFF</string>
 			</dict>
 		</dict>
 		
@@ -119,7 +134,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#3248FF</string>
+				<string>#FFE037</string>
 			</dict>
 		</dict>
 		
@@ -133,7 +148,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#2A15D6</string>
+				<string>#A1FFFF</string>
 			</dict>
 		</dict>
 		
@@ -147,7 +162,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#3248FF</string>
+				<string>#FFE037</string>
 			</dict>
 		</dict>
 		
@@ -161,7 +176,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#D77795</string>
+				<string>#0063D5</string>
 			</dict>
 		</dict>
 		
@@ -175,7 +190,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#B54CD3</string>
+				<string>#5E71DB</string>
 			</dict>
 		</dict>
 		
@@ -189,7 +204,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#0097FF</string>
+				<string>#C5E9FF</string>
 			</dict>
 		</dict>
 		
@@ -203,7 +218,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#B300FF</string>
+				<string>#F1FFC9</string>
 			</dict>
 		</dict>
 		
@@ -217,7 +232,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFABFF</string>
+				<string>#C1B8B3</string>
 			</dict>
 		</dict>
 		
@@ -231,12 +246,12 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#3248FF</string>
+				<string>#FFE037</string>
 			</dict>
 		</dict>
 		
 	</array>
 	<key>uuid</key>
-	<string>26e4c603-cb97-33c0-ad64-66b2aff1da15</string>
+	<string>be8a99eb-9a26-3571-812c-a6d63fe23586</string>
 </dict>
 </plist>

@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comment</key>
+	<string>by Thomas Aylott — subtleGradient.com</string>
+	<key>name</key>
+	<string>mintBlue</string>
+	<key>settings</key>
+	<array>
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#FFFFFFF2</string>
+				<key>caret</key>
+				<string>#D42755</string>
+				<key>foreground</key>
+				<string>#323232</string>
+				<key>invisibles</key>
+				<string>#92DAFF80</string>
+				<key>lineHighlight</key>
+				<string>#00104705</string>
+				<key>selection</key>
+				<string>#D89CF580</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>source</string>
+			<key>scope</key>
+			<string>source -meta.source.embedded, declaration.xml-processing</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#656565</string>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#ECEBEC</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>meta.source.embedded</string>
+			<key>scope</key>
+			<string>meta.source.embedded -meta.source.embedded.bound</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#565656</string>
+				<key>foreground</key>
+				<string>#787878</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>meta.source.embedded.bound</string>
+			<key>scope</key>
+			<string>meta.source.embedded.bound</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#99D8F680</string>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#4C6C7B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>meta.source.embedded.bound source</string>
+			<key>scope</key>
+			<string>meta.source.embedded.bound source</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#4C6C7B</string>
+				<key>foreground</key>
+				<string>#DCEDF5</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>meta.source.embedded.script-tag</string>
+			<key>scope</key>
+			<string>meta.source.embedded.script-tag -(meta.source.embedded.script-tag source)</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#D42755</string>
+				<key>foreground</key>
+				<string>#FFFFFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>source.js</string>
+			<key>scope</key>
+			<string>source.js</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#596459</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>source string</string>
+			<key>scope</key>
+			<string>source string, constant</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>underline</string>
+				<key>foreground</key>
+				<string>#BCDE90</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>source string.quoted.single</string>
+			<key>scope</key>
+			<string>source string.quoted.single</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F9FAAB</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>variable</string>
+			<key>scope</key>
+			<string>variable -(text string source), support</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#99D8F6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>constant.character.entity</string>
+			<key>scope</key>
+			<string>constant.character.entity</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#99D8F6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>text source</string>
+			<key>scope</key>
+			<string>text source -(declaration.tag string)</string>
+			<key>settings</key>
+			<dict/>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>text string source</string>
+			<key>scope</key>
+			<string>text string source -meta.source.embedded.bound, meta.source.embedded.return-value -meta.source.embedded.bound, text string meta.source.embedded</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#9BB474</string>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#FFFFFFE6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>source string source</string>
+			<key>scope</key>
+			<string>source string source</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#878B8C</string>
+				<key>foreground</key>
+				<string>#FFFFFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>source comment</string>
+			<key>scope</key>
+			<string>source comment</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#6B606B</string>
+				<key>foreground</key>
+				<string>#BFA0D6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>text comment -source</string>
+			<key>scope</key>
+			<string>text comment -source, declaration.sgml</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#9E7BB21A</string>
+				<key>foreground</key>
+				<string>#AB90C0</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>declaration.tag</string>
+			<key>scope</key>
+			<string>declaration.tag, meta.tag</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#9CD8F540</string>
+				<key>foreground</key>
+				<string>#99D8F6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>declaration.sgml</string>
+			<key>scope</key>
+			<string>declaration.sgml</string>
+			<key>settings</key>
+			<dict/>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>entity.name.tag</string>
+			<key>scope</key>
+			<string>entity.name.tag -source</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#9CD8F51A</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#33333340</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>declaration.attribute-with-value.id</string>
+			<key>scope</key>
+			<string>declaration.attribute-with-value.id</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>entity.other.attribute-name</string>
+			<key>scope</key>
+			<string>entity.other.attribute-name</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>declaration.tag.html string</string>
+			<key>scope</key>
+			<string>declaration.tag string -(declaration.tag string source string), meta.tag string -(meta.tag string source string), meta.tag string meta.source.embedded.return-value</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#6A8B56</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>string</string>
+			<key>scope</key>
+			<string>string</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#6B813E0D</string>
+				<key>fontStyle</key>
+				<string>underline</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>string.interpolated</string>
+			<key>scope</key>
+			<string>string.interpolated</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#7B9F5380</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>meta.ending-space</string>
+			<key>scope</key>
+			<string>meta.ending-space -source</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#92DAFF1A</string>
+				<key>fontStyle</key>
+				<string></string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>source meta.ending-space</string>
+			<key>scope</key>
+			<string>source meta.ending-space -(string meta.source)</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#0000001A</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>source meta.leading-space</string>
+			<key>scope</key>
+			<string>source meta.leading-space -(string meta.source)</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>underline</string>
+				<key>foreground</key>
+				<string>#5D5D5D</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>source meta.odd-tab</string>
+			<key>scope</key>
+			<string>source meta.even-tab -(string meta.source)</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#697074</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>meta.leading-space</string>
+			<key>scope</key>
+			<string>meta.leading-space -meta.group.braces, meta.leading-tabs -meta.group.braces</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#17191A1A</string>
+				<key>fontStyle</key>
+				<string></string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>string meta.source meta.leading-space</string>
+			<key>scope</key>
+			<string>string meta.source meta.leading-space, string meta.source meta.ending-space, string meta.source meta.leading-tabs</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#F1F5E5</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>string meta.source meta.ending-space</string>
+			<key>scope</key>
+			<string>string meta.source meta.ending-space</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#9BB474</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>meta.tab</string>
+			<key>scope</key>
+			<string>meta.even-tab -meta.group.braces</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#92DAFF1A</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>round-brackets 0</string>
+			<key>scope</key>
+			<string>meta.group.braces</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#3232321A</string>
+				<key>fontStyle</key>
+				<string></string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>round-brackets 1</string>
+			<key>scope</key>
+			<string>meta.group.braces meta.group.braces</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#00000033</string>
+				<key>fontStyle</key>
+				<string></string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>round-brackets 2</string>
+			<key>scope</key>
+			<string>meta.group.braces meta.group.braces meta.group.braces</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#00000033</string>
+				<key>fontStyle</key>
+				<string></string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>round-brackets 3</string>
+			<key>scope</key>
+			<string>meta.group.braces meta.group.braces meta.group.braces meta.group.braces</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#00000033</string>
+				<key>fontStyle</key>
+				<string></string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>round-brackets 4</string>
+			<key>scope</key>
+			<string>meta.group.braces meta.group.braces meta.group.braces meta.group.braces meta.group.braces</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#00000033</string>
+				<key>fontStyle</key>
+				<string></string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>round-brackets 5</string>
+			<key>scope</key>
+			<string>meta.group.braces meta.group.braces meta.group.braces meta.group.braces meta.group.braces meta.group.braces</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#00000033</string>
+				<key>fontStyle</key>
+				<string></string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>round-brackets 6</string>
+			<key>scope</key>
+			<string>meta.group.braces meta.group.braces meta.group.braces meta.group.braces meta.group.braces meta.group.braces meta.group.braces</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#00000033</string>
+				<key>fontStyle</key>
+				<string></string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>round-brackets 7</string>
+			<key>scope</key>
+			<string>meta.group.braces meta.group.braces meta.group.braces meta.group.braces meta.group.braces meta.group.braces meta.group.braces meta.group.braces</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#00000033</string>
+				<key>fontStyle</key>
+				<string></string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>round-brackets 8</string>
+			<key>scope</key>
+			<string>meta.group.braces meta.group.braces meta.group.braces meta.group.braces meta.group.braces meta.group.braces meta.group.braces meta.group.braces meta.group.braces</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#00000033</string>
+				<key>fontStyle</key>
+				<string></string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>round-brackets 9</string>
+			<key>scope</key>
+			<string>meta.group.braces meta.group.braces meta.group.braces meta.group.braces meta.group.braces meta.group.braces meta.group.braces meta.group.braces meta.group.braces meta.group.braces</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#00000033</string>
+				<key>fontStyle</key>
+				<string>underline</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>text string source test</string>
+			<key>scope</key>
+			<string>text string source test</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#86A175</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>support.function</string>
+			<key>scope</key>
+			<string>support.function</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#6B803F1A</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>keyword</string>
+			<key>scope</key>
+			<string>keyword</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#B6D48F</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>keyword.operator</string>
+			<key>scope</key>
+			<string>keyword.operator</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#000000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>variable</string>
+			<key>scope</key>
+			<string>variable &amp;(text string source)</string>
+			<key>settings</key>
+			<dict/>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>variable.parameter.function</string>
+			<key>scope</key>
+			<string>variable.parameter.function, meta.function variable, support.class</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#99D8F680</string>
+				<key>foreground</key>
+				<string>#424252</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>meta.function, storage.type</string>
+			<key>scope</key>
+			<string>meta.function, storage.type, support.function, entity.name.function</string>
+			<key>settings</key>
+			<dict/>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>meta.function, storage.type</string>
+			<key>scope</key>
+			<string>meta.function  -(text declaration.tag string source), storage.type -(text declaration.tag string source)</string>
+			<key>settings</key>
+			<dict/>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>storage, storage.type.function</string>
+			<key>scope</key>
+			<string>storage, storage.type.function, declaration.class, entity.name.function</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#F9FAAB</string>
+				<key>foreground</key>
+				<string>#1C7A1F</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>support.function, support.function entity.name.function</string>
+			<key>scope</key>
+			<string>support.function, support.function entity.name.function</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#BADF8B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>invalid</string>
+			<key>scope</key>
+			<string>invalid -declaration.sgml -source</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#D42755</string>
+			</dict>
+		</dict>
+	</array>
+	<key>uuid</key>
+	<string>2D2CC1FA-BE95-4103-8254-D2CD0BC0730B</string>
+</dict>
+</plist>

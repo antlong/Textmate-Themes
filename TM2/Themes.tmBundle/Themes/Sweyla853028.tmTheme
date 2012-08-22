@@ -2,17 +2,15 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>comment</key>
-    <string>Anthony Long - www.antlong.com</string>
 	<key>name</key>
-	<string>Bluesy</string>
+	<string>Sweyla Theme (853028)</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#0A1300</string>
+				<string>#030A02</string>
 				<key>caret</key>
 				<string>#FFFFFF</string>
 				<key>foreground</key>
@@ -25,6 +23,21 @@
 				<string>#323232</string>
 			</dict>
 		</dict>
+		
+		<dict>
+			<key>name</key>
+			<string>themes.sweyla.com</string>
+			<key>scope</key>
+			<string>meta.sweyla</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#29DAFF</string>
+			</dict>
+		</dict>
+		
 		<dict>
 			<key>name</key>
 			<string>Comment</string>
@@ -35,7 +48,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#419BFF</string>
+				<string>#C2B1D7</string>
 			</dict>
 		</dict>
 		
@@ -49,7 +62,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#6337AB</string>
+				<string>#45F89F</string>
 			</dict>
 		</dict>
 		
@@ -63,7 +76,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#B300FF</string>
+				<string>#C07596</string>
 			</dict>
 		</dict>
 		
@@ -77,7 +90,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#DE68FF</string>
+				<string>#4F82FF</string>
 			</dict>
 		</dict>
 		
@@ -91,7 +104,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#DE68FF</string>
+				<string>#4F82FF</string>
 			</dict>
 		</dict>
 		
@@ -105,7 +118,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#788FFF</string>
+				<string>#61E77B</string>
 			</dict>
 		</dict>
 		
@@ -119,7 +132,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#3248FF</string>
+				<string>#29DAFF</string>
 			</dict>
 		</dict>
 		
@@ -133,7 +146,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#2A15D6</string>
+				<string>#5FB7F0</string>
 			</dict>
 		</dict>
 		
@@ -147,7 +160,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#3248FF</string>
+				<string>#29DAFF</string>
 			</dict>
 		</dict>
 		
@@ -161,7 +174,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#D77795</string>
+				<string>#4BACA6</string>
 			</dict>
 		</dict>
 		
@@ -175,7 +188,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#B54CD3</string>
+				<string>#4E78C8</string>
 			</dict>
 		</dict>
 		
@@ -189,7 +202,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#0097FF</string>
+				<string>#C6EC95</string>
 			</dict>
 		</dict>
 		
@@ -203,7 +216,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#B300FF</string>
+				<string>#C07596</string>
 			</dict>
 		</dict>
 		
@@ -217,7 +230,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFABFF</string>
+				<string>#5EFF82</string>
 			</dict>
 		</dict>
 		
@@ -231,12 +244,12 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#3248FF</string>
+				<string>#29DAFF</string>
 			</dict>
 		</dict>
 		
 	</array>
 	<key>uuid</key>
-	<string>26e4c603-cb97-33c0-ad64-66b2aff1da15</string>
+	<string>a4dea411-cdd1-34b4-b9f4-2faeb44bc917</string>
 </dict>
 </plist>

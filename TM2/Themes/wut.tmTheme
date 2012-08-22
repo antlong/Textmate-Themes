@@ -2,29 +2,42 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>comment</key>
-    <string>Anthony Long - www.antlong.com</string>
 	<key>name</key>
-	<string>Bluesy</string>
+	<string>Wut</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#0A1300</string>
+				<string>#FFFFFF</string>
 				<key>caret</key>
-				<string>#FFFFFF</string>
+				<string>#000000</string>
 				<key>foreground</key>
-				<string>#FFFFFF</string>
+				<string>#000000</string>
 				<key>invisibles</key>
 				<string>#CAE2FB3D</string>
 				<key>lineHighlight</key>
 				<string>#FFFFFF24</string>
 				<key>selection</key>
-				<string>#323232</string>
+				<string>#C8C8C8</string>
 			</dict>
 		</dict>
+		
+		<dict>
+			<key>name</key>
+			<string>themes.sweyla.com</string>
+			<key>scope</key>
+			<string>meta.sweyla</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#7E0A00</string>
+			</dict>
+		</dict>
+		
 		<dict>
 			<key>name</key>
 			<string>Comment</string>
@@ -35,7 +48,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#419BFF</string>
+				<string>#8DA708</string>
 			</dict>
 		</dict>
 		
@@ -49,7 +62,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#6337AB</string>
+				<string>#FF0018</string>
 			</dict>
 		</dict>
 		
@@ -63,7 +76,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#B300FF</string>
+				<string>#7E000E</string>
 			</dict>
 		</dict>
 		
@@ -77,7 +90,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#DE68FF</string>
+				<string>#E33028</string>
 			</dict>
 		</dict>
 		
@@ -91,7 +104,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#DE68FF</string>
+				<string>#E33028</string>
 			</dict>
 		</dict>
 		
@@ -105,7 +118,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#788FFF</string>
+				<string>#FF5E00</string>
 			</dict>
 		</dict>
 		
@@ -119,7 +132,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#3248FF</string>
+				<string>#7E0A00</string>
 			</dict>
 		</dict>
 		
@@ -133,7 +146,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#2A15D6</string>
+				<string>#2B0000</string>
 			</dict>
 		</dict>
 		
@@ -147,7 +160,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#3248FF</string>
+				<string>#7E0A00</string>
 			</dict>
 		</dict>
 		
@@ -161,7 +174,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#D77795</string>
+				<string>#C44C54</string>
 			</dict>
 		</dict>
 		
@@ -175,7 +188,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#B54CD3</string>
+				<string>#C02125</string>
 			</dict>
 		</dict>
 		
@@ -189,7 +202,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#0097FF</string>
+				<string>#BF8D00</string>
 			</dict>
 		</dict>
 		
@@ -203,7 +216,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#B300FF</string>
+				<string>#7E000E</string>
 			</dict>
 		</dict>
 		
@@ -217,7 +230,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFABFF</string>
+				<string>#9E9B08</string>
 			</dict>
 		</dict>
 		
@@ -231,12 +244,12 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#3248FF</string>
+				<string>#7E0A00</string>
 			</dict>
 		</dict>
 		
 	</array>
 	<key>uuid</key>
-	<string>26e4c603-cb97-33c0-ad64-66b2aff1da15</string>
+	<string>446e604a-ad3e-3292-b443-2ee9307764b4</string>
 </dict>
 </plist>

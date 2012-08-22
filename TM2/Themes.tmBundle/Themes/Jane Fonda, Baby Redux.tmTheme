@@ -2,17 +2,19 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>comment</key>
-    <string>Anthony Long - www.antlong.com</string>
+	<key>author</key>
+	<string>Anthony Long</string>
+	<key>comment</key>
+	<string>www.Textmate-Themes.com</string>
 	<key>name</key>
-	<string>Bluesy</string>
+	<string>Jane Fonda, Baby Redux</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#0A1300</string>
+				<string>#262626F7</string>
 				<key>caret</key>
 				<string>#FFFFFF</string>
 				<key>foreground</key>
@@ -22,7 +24,7 @@
 				<key>lineHighlight</key>
 				<string>#FFFFFF24</string>
 				<key>selection</key>
-				<string>#323232</string>
+				<string>#B65C00</string>
 			</dict>
 		</dict>
 		<dict>
@@ -32,86 +34,30 @@
 			<string>comment</string>
 			<key>settings</key>
 			<dict>
+				<key>background</key>
+				<string>#333333F7</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#419BFF</string>
+				<string>#BDB4FF</string>
 			</dict>
 		</dict>
-		
 		<dict>
 			<key>name</key>
-			<string>Constant</string>
+			<string>Comment Block</string>
 			<key>scope</key>
-			<string>constant</string>
+			<string>comment.block</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#6337AB</string>
+				<string>#5EFEFF</string>
 			</dict>
 		</dict>
-		
 		<dict>
 			<key>name</key>
-			<string>Constant</string>
-			<key>scope</key>
-			<string>constant.language</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#B300FF</string>
-			</dict>
-		</dict>
-		
-		<dict>
-			<key>name</key>
-			<string>Entity</string>
-			<key>scope</key>
-			<string>entity</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#DE68FF</string>
-			</dict>
-		</dict>
-		
-		<dict>
-			<key>name</key>
-			<string>Entity Function</string>
-			<key>scope</key>
-			<string>entity.name.function</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#DE68FF</string>
-			</dict>
-		</dict>
-		
-		<dict>
-			<key>name</key>
-			<string>Entity Name</string>
-			<key>scope</key>
-			<string>entity.name</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#788FFF</string>
-			</dict>
-		</dict>
-		
-		<dict>
-			<key>name</key>
-			<string>Keyword</string>
+			<string>Keyword, Storage</string>
 			<key>scope</key>
 			<string>keyword</string>
 			<key>settings</key>
@@ -119,80 +65,22 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#3248FF</string>
+				<string>#44C4FF</string>
 			</dict>
 		</dict>
-		
 		<dict>
 			<key>name</key>
-			<string>Operator</string>
+			<string>Language Constant</string>
 			<key>scope</key>
-			<string>keyword.operator</string>
+			<string>constant.language</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#2A15D6</string>
+				<string>#3EBDCB</string>
 			</dict>
 		</dict>
-		
-		<dict>
-			<key>name</key>
-			<string>Storage</string>
-			<key>scope</key>
-			<string>storage</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#3248FF</string>
-			</dict>
-		</dict>
-		
-		<dict>
-			<key>name</key>
-			<string>Support</string>
-			<key>scope</key>
-			<string>support</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#D77795</string>
-			</dict>
-		</dict>
-		
-		<dict>
-			<key>name</key>
-			<string>Support Function</string>
-			<key>scope</key>
-			<string>support.function</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#B54CD3</string>
-			</dict>
-		</dict>
-		
-		<dict>
-			<key>name</key>
-			<string>String</string>
-			<key>scope</key>
-			<string>string</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#0097FF</string>
-			</dict>
-		</dict>
-		
 		<dict>
 			<key>name</key>
 			<string>Variable</string>
@@ -203,24 +91,133 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#B300FF</string>
+				<string>#3EBDCB</string>
 			</dict>
 		</dict>
-		
 		<dict>
 			<key>name</key>
-			<string>String constant</string>
+			<string>Variable - Language</string>
 			<key>scope</key>
-			<string>string constant</string>
+			<string>variable.language</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#81BCFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Triple Quotes</string>
+			<key>scope</key>
+			<string>strings.quotes.triple</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#8DBCDE</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>String</string>
+			<key>scope</key>
+			<string>string, string constant</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFABFF</string>
+				<string>#A2D7FF</string>
 			</dict>
 		</dict>
-		
+		<dict>
+			<key>name</key>
+			<string>Operator</string>
+			<key>scope</key>
+			<string>keyword.operator</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#FF57EF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Constant</string>
+			<key>scope</key>
+			<string>constant</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#BE85FF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Entity, Entity.Name.Function</string>
+			<key>scope</key>
+			<string>entity, entity.name.function</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#BEB6FF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Decorators</string>
+			<key>scope</key>
+			<string>meta.function.decorator.python, entity.name.function.decorator.python, meta.function.decorator.arguments.python</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#BEB6FF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Entity Name</string>
+			<key>scope</key>
+			<string>entity.name</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#FFC6F6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Support</string>
+			<key>scope</key>
+			<string>support</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#DBA2FF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Support Function / Entity Name Type</string>
+			<key>scope</key>
+			<string>support.function, entity.name.type</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#FFD059</string>
+			</dict>
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>Invalid</string>
@@ -228,15 +225,40 @@
 			<string>invalid</string>
 			<key>settings</key>
 			<dict>
+				<key>background</key>
+				<string>#3D3D3DF7</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#3248FF</string>
+				<string>#FF0000</string>
 			</dict>
 		</dict>
-		
+		<dict>
+			<key>name</key>
+			<string>Deprecated</string>
+			<key>scope</key>
+			<string>invalid.deprecated</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#E6020C</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Class</string>
+			<key>scope</key>
+			<string>storage.type.class</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FE9BFF</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
-	<string>26e4c603-cb97-33c0-ad64-66b2aff1da15</string>
+	<string>0533FE56-AFD3-4D05-8D45-207E4FF468B6</string>
 </dict>
 </plist>
